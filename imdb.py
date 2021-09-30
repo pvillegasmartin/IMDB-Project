@@ -4,9 +4,7 @@ import requests
 import pandas as pd
 from datetime import timedelta
 
-<<<<<<< HEAD
-import pandas as pd
-=======
+
 def main():
     base_url = 'https://www.imdb.com/'
 
@@ -25,4 +23,4 @@ def getting_info(link):
 
 if __name__ == "__main__":
     main()
->>>>>>> webscraping
+
